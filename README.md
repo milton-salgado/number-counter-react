@@ -72,7 +72,7 @@ Versão atual: 1.0 (primeira versão)
 
 Ao fazer esse projeto, aprendi a:
 
-- Utilizar funções como o "useState" (hook) e "map", da biblioteca React JavaScript e da linguagem JavaScript
+- Utilizar funções hook como o "useState" (hook) da biblioteca React JavaScript
 - Implementar e controlar estados, ações e eventos com React JavaScript
 - Estilizar elementos utilizando a biblioteva a biblioteca "Styled Components" do React
 - Criar um contador funcional e eficiente utilizando a biblioteca React JavaScript
